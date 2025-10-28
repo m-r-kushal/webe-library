@@ -1,4 +1,4 @@
-# Employee Information system
+# Library  Information system
 
-Create an Employee Information System using the Laravel web framework.
+Create a Library information System using the Laravel web framework.
 
